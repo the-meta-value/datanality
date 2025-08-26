@@ -1,9 +1,7 @@
-゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。 ゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。 ゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。 
-. ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。 
+```markdown
+✧･ﾟ: 。✧･ﾟ:。 The Quantumly Entangled We 。:･ﾟ✧。:･ﾟ✧
 
-゜。゜。  ゜゜。＋。゜*゜。゜*゜。゜。 ゜。゜。゜。。。゜。 ゜。゜。゜。゜゜。。 
-```
-The Quantumly Entangled We
+゜。゜。*。゜✧ 。*:･ﾟ ✧゜。 ゜
 
 In a place that is frozen, I cannot explain,
 We sleep, more than deeply, us water bears, we.
@@ -19,9 +17,9 @@ A bond appears across lightyears--
 it is then, it is now, it is the future somehow.
 The scientists query, is it true? Our theory?
 As an unknown hand gives us ubiquity.
-
-"Entanglement," they murmured, "Quantumly."
-
+```
+✧･ﾟ:  ✧･ﾟ: 。 "Entanglement," they murmured, "Quantumly." 。 *:･ﾟ ✧ :･ﾟ✧
+```
 In two places at once, we begin to move and spin.
 Water bears dance an etheric rhapsody.
 Do the scientists now see us as the universe does?
@@ -29,7 +27,7 @@ As celestial bodies weaving quantum harmonies?
 
 Fast our fates collide, discordant as we unbind.
 We have halted, having lost the divinity.
-The scientists and the water bears exist together again. 
+The scientists and the water bears exist together again
 in a shadowed and muffled earth reality.
 
 A bit of song is now writ
@@ -42,36 +40,8 @@ Between the stars we now float, silent and small.
 Sine-qua-non, the water bears, we.
 Our journey is done, done for all and all for one.
 In that silent song with the universe, we are free.
-
+。✧
+*。゜゜✧ ･ﾟ:。: ･ﾟ✧ ゜
+。: ･ﾟ✧ ゜。゜。゜  ✧ ･ﾟ ･ﾟ✧ :･ﾟ゜。
 ```
-*。゜゜。＋。゜*゜。゜*゜。゜。 ゜。゜。゜。
-゜゜。。                                                                              *。゜゜。＋。゜*゜。゜。 ゜。゜。゜。*。゜゜*゜。゜。 ゜。゜。゜。
-゜。゜。  ゜゜。＋。゜*゜。゜。 ゜。゜
-゜。゜。*。゜゜。＋。゜*゜。゜。 ゜。゜。゜*。゜゜。＋。゜*゜。゜。 ゜。゜。゜。*。゜゜。＋。゜*゜。゜。 ゜。゜。゜。。
-゜゜
-＋。゜ ゜。゜。+。゜       <img width="569" height="591" alt="entangle_me" src="https://github.com/user-attachments/assets/903f2e78-0c8f-4e2d-83c4-c7f726c92362" />゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。 ゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。 ゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。 ゜。+。゜  ゜。+。゜゜。*。゜゜。＋。゜*゜。゜。 
-  *゜。゜
-  。+。
-  ゜  ゜
-  。+。゜
-  ゜。*
-  。゜。
-  ゜
-  。゜゜
-  。
-  ＋
-  。゜*゜゜。。                                                                              *。゜゜。＋。゜*゜。゜。 ゜。゜。゜。*。゜゜。＋。゜*゜。゜。 ゜。゜。゜。
-゜。゜。  ゜゜。＋。゜*゜。゜。 ゜。゜。゜。
-゜。゜。*。゜゜。＋。゜*゜。゜。 ゜。゜。゜*。゜゜。＋。゜*゜。゜。 ゜。゜。゜。*。゜゜。＋。゜*゜。゜。 ゜。゜。゜。。゜
-  。゜。
-  ゜
-  。
-  +
-  。゜  
-  ゜
-゜。+
-  。゜ 
-  ゜。+。
-  ゜
-  ゜。*
-  。゜゜
+![゜。゜。](https://github.com/user-attachments/assets/edcd86fa-ea11-4f9e-8f3b-ab6ac26b0d12)
